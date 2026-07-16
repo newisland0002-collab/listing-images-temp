@@ -1,0 +1,25 @@
+{
+  "sku": "OMCA005",
+  "summaries": [
+    {
+      "marketplaceId": "A2EUQ1WTGCTBG2",
+      "asin": "B086TYTYX6",
+      "productType": "CURTAIN_FASTENER",
+      "conditionType": "new_new",
+      "status": [
+        "DISCOVERABLE",
+        "BUYABLE"
+      ],
+      "fnSku": "X003WS2FU1",
+      "itemName": "Shower Curtain Hooks Rust Resistant Shower Curtain Rings Metal Glide Rollers Shower Hooks for Bathroom Shower Curtain Rods Curtains, Set of 12",
+      "createdDate": "2023-07-28T03:26:02.979Z",
+      "lastUpdatedDate": "2026-07-16T14:25:08.552Z",
+      "mainImage": {
+        "link": "https://m.media-amazon.com/images/I/41d99aDwomL.jpg",
+        "height": 500,
+        "width": 500
+      }
+    }
+  ],
+  "issues": []
+}

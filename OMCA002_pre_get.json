@@ -1,0 +1,25 @@
+{
+  "sku": "OMCA002",
+  "summaries": [
+    {
+      "marketplaceId": "A2EUQ1WTGCTBG2",
+      "asin": "B086V36QD7",
+      "productType": "CURTAIN_FASTENER",
+      "conditionType": "new_new",
+      "status": [
+        "BUYABLE",
+        "DISCOVERABLE"
+      ],
+      "fnSku": "X003WS3KFZ",
+      "itemName": "DadyMart Shower Curtain Hooks Rings, Set of 12 - Rust Resistant Metal Double Glide Roller Shower Hooks for Bathroom Shower Curtain Rod, Smooth Glide Shower Curtain Rings, Chrome",
+      "createdDate": "2023-07-28T03:15:19.754Z",
+      "lastUpdatedDate": "2026-07-16T14:26:06.433Z",
+      "mainImage": {
+        "link": "https://m.media-amazon.com/images/I/51dN0Dta7tL.jpg",
+        "height": 500,
+        "width": 500
+      }
+    }
+  ],
+  "issues": []
+}

@@ -1,0 +1,237 @@
+{
+  "sku": "OMCA002",
+  "summaries": [
+    {
+      "marketplaceId": "A2EUQ1WTGCTBG2",
+      "asin": "B086V36QD7",
+      "productType": "CURTAIN_FASTENER",
+      "conditionType": "new_new",
+      "status": [
+        "BUYABLE",
+        "DISCOVERABLE"
+      ],
+      "fnSku": "X003WS3KFZ",
+      "itemName": "DadyMart Shower Curtain Hooks Rings, Set of 12 - Rust Resistant Metal Double Glide Roller Shower Hooks for Bathroom Shower Curtain Rod, Smooth Glide Shower Curtain Rings, Chrome",
+      "createdDate": "2023-07-28T03:15:19.754Z",
+      "lastUpdatedDate": "2026-07-16T14:26:06.433Z",
+      "mainImage": {
+        "link": "https://m.media-amazon.com/images/I/51dN0Dta7tL.jpg",
+        "height": 500,
+        "width": 500
+      }
+    }
+  ],
+  "attributes": {
+    "color": [
+      {
+        "language_tag": "en_CA",
+        "value": "Chrome",
+        "marketplace_id": "A2EUQ1WTGCTBG2"
+      }
+    ],
+    "variation_theme": [
+      {
+        "name": "COLOR/ITEM_PACKAGE_QUANTITY"
+      }
+    ],
+    "skip_offer": [
+      {
+        "value": false,
+        "marketplace_id": "A2EUQ1WTGCTBG2"
+      }
+    ],
+    "fulfillment_availability": [
+      {
+        "fulfillment_channel_code": "AMAZON_NA"
+      },
+      {
+        "fulfillment_channel_code": "DEFAULT",
+        "quantity": 0
+      }
+    ],
+    "manufacturer": [
+      {
+        "language_tag": "en_CA",
+        "value": "DadyMart",
+        "marketplace_id": "A2EUQ1WTGCTBG2"
+      }
+    ],
+    "recommended_browse_nodes": [
+      {
+        "value": "3223364011",
+        "marketplace_id": "A2EUQ1WTGCTBG2"
+      }
+    ],
+    "bullet_point": [
+      {
+        "language_tag": "en_CA",
+        "value": "Hang both shower curtain and liner: The double-sided design of these shower curtain hooks enables you to hang a shower curtain and a liner at the same time. Made of durable metal material, they are sturdy enough to hold heavy curtains and liners flawlessly.",
+        "marketplace_id": "A2EUQ1WTGCTBG2"
+      },
+      {
+        "language_tag": "en_CA",
+        "value": "Easy to use: These shower curtain rings allow you to hang or remove your shower curtain and liner quite easily. It takes just a few minutes to install and the unique design will prevent them from falling off.",
+        "marketplace_id": "A2EUQ1WTGCTBG2"
+      },
+      {
+        "language_tag": "en_CA",
+        "value": "Smooth sliding function: Glides easily without friction on the shower curtain rod due to five special roller balls on each hook. These shower curtain hooks can prevent snagging and tugging when pulling your shower curtain and liner open and closed.",
+        "marketplace_id": "A2EUQ1WTGCTBG2"
+      },
+      {
+        "language_tag": "en_CA",
+        "value": "Rust resistant & durable: Composed of high-quality metal material and plated with a layer of durable rust-resistant coating, these shower curtain hooks will be long-lasting.",
+        "marketplace_id": "A2EUQ1WTGCTBG2"
+      },
+      {
+        "language_tag": "en_CA",
+        "value": "Set of 12 shower hooks: The 12-pcs shower curtain hooks set will work on most standard sizes of shower curtain rods.",
+        "marketplace_id": "A2EUQ1WTGCTBG2"
+      }
+    ],
+    "item_package_quantity": [
+      {
+        "value": "12",
+        "marketplace_id": "A2EUQ1WTGCTBG2"
+      }
+    ],
+    "product_description": [
+      {
+        "language_tag": "en_CA",
+        "value": "In order to prevent the water from leaking out of the shower or tub, and splashing out onto the floor, these double shower curtain hooks are helpful for controlling the curtain and liner. A set of 12 durable shower curtain hooks will keep your shower curtains from falling. The five smooth roller balls on each hook can reduce friction and ensure the hook glides effortlessly. Perfect for most standard shower curtain rods. Hang Both a Shower Curtain and a Liner Hang your waterproof shower liner on the inside of the hook and a decorative curtain on the outside with ease. This dual design makes it handy to remove the shower liner for washing without needing to remove the outside shower curtain. Rust-resistant Shower Curtain Hooks Made from rust-resistant metal material, these shower curtain rings are not only more durable than standard hooks, but also coordinate well with various styles of liners and curtains. Set of 12 Friction Free, Easy Glide Easy to Install Polished for an attractive style Fit most standard sizes shower curtain rods",
+        "marketplace_id": "A2EUQ1WTGCTBG2"
+      }
+    ],
+    "brand": [
+      {
+        "language_tag": "en_CA",
+        "value": "DadyMart",
+        "marketplace_id": "A2EUQ1WTGCTBG2"
+      }
+    ],
+    "generic_keyword": [
+      {
+        "language_tag": "en_CA",
+        "value": "crochet crochets rideau douche anneaux anneau salle bain pour rings ring hanger hangers holder holders roller rollers glide gliding clip clips metal nickel brushed chrome bronze copper silver gold black white clear rustproof resistant decorative rod",
+        "marketplace_id": "A2EUQ1WTGCTBG2"
+      }
+    ],
+    "externally_assigned_product_identifier": [
+      {
+        "value": "602299826653",
+        "type": "upc",
+        "marketplace_id": "A2EUQ1WTGCTBG2"
+      }
+    ],
+    "item_name": [
+      {
+        "language_tag": "en_CA",
+        "value": "DadyMart Shower Curtain Hooks Rings, Set of 12 - Rust Resistant Metal Double Glide Roller Shower Hooks for Bathroom Shower Curtain Rod, Smooth Glide Shower Curtain Rings, Chrome",
+        "marketplace_id": "A2EUQ1WTGCTBG2"
+      }
+    ],
+    "merchant_shipping_group": [
+      {
+        "value": "legacy-template-id",
+        "marketplace_id": "A2EUQ1WTGCTBG2"
+      }
+    ],
+    "batteries_required": [
+      {
+        "value": false,
+        "marketplace_id": "A2EUQ1WTGCTBG2"
+      }
+    ],
+    "merchant_suggested_asin": [
+      {
+        "value": "B086V36QD7",
+        "marketplace_id": "A2EUQ1WTGCTBG2"
+      }
+    ],
+    "condition_type": [
+      {
+        "value": "new_new",
+        "marketplace_id": "A2EUQ1WTGCTBG2"
+      }
+    ],
+    "manufacturer_contact_information": [
+      {
+        "value": "OMAKER (HK) ECOMMERCE LIMITED, NO 121-E2 SHUI TSIU SAN TSUEN, YUEN LONG, Hong Kong",
+        "language_tag": "en_CA",
+        "marketplace_id": "A2EUQ1WTGCTBG2"
+      }
+    ],
+    "other_product_image_locator_5": [
+      {
+        "media_location": "https://m.media-amazon.com/images/I/715Rn8ZFqbL.jpg",
+        "marketplace_id": "A2EUQ1WTGCTBG2"
+      }
+    ],
+    "other_product_image_locator_4": [
+      {
+        "media_location": "https://m.media-amazon.com/images/I/61vUv+uM+BL.jpg",
+        "marketplace_id": "A2EUQ1WTGCTBG2"
+      }
+    ],
+    "other_product_image_locator_3": [
+      {
+        "media_location": "https://m.media-amazon.com/images/I/616ojsPryUL.jpg",
+        "marketplace_id": "A2EUQ1WTGCTBG2"
+      }
+    ],
+    "other_product_image_locator_2": [
+      {
+        "media_location": "https://m.media-amazon.com/images/I/615gyorzheL.jpg",
+        "marketplace_id": "A2EUQ1WTGCTBG2"
+      }
+    ],
+    "other_product_image_locator_1": [
+      {
+        "media_location": "https://m.media-amazon.com/images/I/71F4zDEW+1L.jpg",
+        "marketplace_id": "A2EUQ1WTGCTBG2"
+      }
+    ],
+    "main_product_image_locator": [
+      {
+        "media_location": "https://m.media-amazon.com/images/I/71RSglulPLL.jpg",
+        "marketplace_id": "A2EUQ1WTGCTBG2"
+      }
+    ],
+    "purchasable_offer": [
+      {
+        "currency": "CAD",
+        "start_at": {
+          "value": "2023-07-28T03:15:14.774Z"
+        },
+        "end_at": {
+          "value": null
+        },
+        "audience": "ALL",
+        "our_price": [
+          {
+            "schedule": [
+              {
+                "value_with_tax": 13.99
+              }
+            ]
+          }
+        ],
+        "marketplace_id": "A2EUQ1WTGCTBG2"
+      }
+    ],
+    "parentage_level": [
+      {
+        "marketplace_id": "A2EUQ1WTGCTBG2",
+        "value": "child"
+      }
+    ],
+    "child_parent_sku_relationship": [
+      {
+        "marketplace_id": "A2EUQ1WTGCTBG2",
+        "child_relationship_type": "variation",
+        "parent_sku": "SP-ZHB15USVF5VZMFOR"
+      }
+    ]
+  },
+  "issues": []
+}
